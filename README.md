@@ -1,6 +1,6 @@
-#Mi proyecto DevOps
+# Mi proyecto DevOps
 
-##README main
+## README main
 
 Esta es una prueba de README en main.
 
