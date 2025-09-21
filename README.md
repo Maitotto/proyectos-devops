@@ -1,2 +1,6 @@
-!Acabo de editar este archivo!
-Estoy practicando Git y me esta pareciendo divertido!
+#Mi proyecto DevOps
+##README main
+
+Esta es una prueba de README en main.
+
+skanmlkfnvakslgfn
